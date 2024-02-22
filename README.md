@@ -22,8 +22,8 @@ This is the finished, working Razer Merchant Services iOS payment module, which 
 
 ## Installation
 
-[[Installation](https://github.com/RazerMS/rms-mobile-xdk-ios/wiki/Installation-Guidance)
-](https://github.com/Naloff67/Mobile-XDK-RazerMS_IOS/wiki/Installation-Guide)
+[Installation Guidline](https://github.com/RazerMS/rms-mobile-xdk-ios/wiki/Installation-Guidance)
+
 
 ## Resources
 
