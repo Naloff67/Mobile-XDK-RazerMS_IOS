@@ -10,19 +10,37 @@ This is the finished, working Razer Merchant Services iOS payment module, which 
 
 # How does it work ?
 
-1. User chooses the Payment option they wish to pay with
-2. Press "Proceed"
-3. Complete the Transaction
+ 1. User chooses the Payment option/Bank they wish to pay with 
+ 2. Press "Proceed".
+ 3. input your bank credentials until finish payment. 
+ 4. Complete the Transaction. 
 
-## Recommended configurations
+
+you must be a registered Razer merchant to receive your own credentials for you to use or test this module.
+
+To do so you can contact us here : sales-sa@razer.com
+
+## Getting Started
+
+Follow the "get started" guide to install Swift here :
+
+For help getting started with Swift, view our
+[online documentation](https://www.swift.org/getting-started/), which offers tutorials,
+samples, guidance on IOS development, and a full API reference.
+
+## Prerequisite
+
+For the module to work, below are the minimum requirements needed :
+
 
     - Xcode version: 10 ++
     
     - Minimum target version: iOS 11 
 
 ## Installation
+Below is the installation guide to implement Razer XDK into your project. 
 
-[Installation Guidline](https://github.com/RazerMS/rms-mobile-xdk-ios/wiki/Installation-Guidance)
+[Click me to install now !](https://github.com/RazerMS/rms-mobile-xdk-ios/wiki/Installation-Guidance)
 
 
 ## Resources
