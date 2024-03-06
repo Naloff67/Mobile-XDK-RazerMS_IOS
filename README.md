@@ -6,39 +6,34 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
-This is the finished, working Razer Merchant Services iOS payment module, which is prepared to be used as a MOLPayXDK framework in an Xcode application project. For the MOLPayXDK framework integration reference, an example application project (MOLPayXDKExample.xcodeproj) is offered.
+This is the completed Razer Merchant Services payment tool for iPhones. It's all set up to be used in an Xcode app project as part of the MOLPayXDK framework. You can see how to integrate this framework into your project by checking out the example application called “MOLPayXDKExample.xcodeproj”.
 
 # How does it work ?
 
- 1. User chooses the Payment option/Bank they wish to pay with 
- 2. Press "Proceed".
- 3. input your bank credentials until finish payment. 
- 4. Complete the Transaction. 
+Here's how it works:
+Pick your payment option or bank.
+Press "Proceed."
+Enter your bank details to finish payment.
+Transaction complete!
 
-
-you must be a registered Razer merchant to receive your own credentials for you to use or test this module.
-
-To do so you can contact us here : sales-sa@razer.com
+To use or test this module, you need to be a registered Razer merchant and have your own credentials. Contact us at “sales-sa@razer.com” to get started.
 
 ## Getting Started
 
-Follow the "get started" guide to install Swift here :
-
-For help getting started with Swift, view our
-[online documentation](https://www.swift.org/getting-started/), which offers tutorials,
-samples, guidance on IOS development, and a full API reference.
+To begin
+Follow the "get started" guide to install Swift.
+For assistance starting with Swift, check out our online documentation. It includes tutorials, samples, iOS development guidance, and a complete API reference.
 
 ## Prerequisite
 
-For the module to work, below are the minimum requirements needed :
-
+Before you start using the module, make sure you have: 
 
     - Xcode version: 10 ++
     
     - Minimum target version: iOS 11 
 
 ## Installation
-Below is the installation guide to implement Razer XDK into your project. 
+To install Razer XDK into your project, follow this installation guide. 
 
 [Click me to install now !](https://github.com/RazerMS/rms-mobile-xdk-ios/wiki/Installation-Guidance)
 
